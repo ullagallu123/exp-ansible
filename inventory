@@ -1,0 +1,6 @@
+[db]
+expense.db.test.ullagallu.cloud
+[backend]
+expense.backend.test.ullagallu.cloud
+[forntend]
+expense.forntend.test.ullagallu.cloud
