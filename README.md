@@ -15,5 +15,5 @@ ansible-playbook -i inventory -e "ansible_user=ec2-user -e ansible_password=DevO
 ## forntend.yaml
 
 ```bash
-ansible-playbook -i inventory -e "ansible_user=ec2-user -e ansible_password=DevOps321" backend.yaml
+ansible-playbook -i inventory -e "ansible_user=ec2-user -e ansible_password=DevOps321" frontend.yaml
 ```
